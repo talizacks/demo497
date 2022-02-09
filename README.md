@@ -5,4 +5,4 @@ Trying stuff and things
 
 ## Favorite Github Jokes
 
-* git vs guitar hero
+* git vs Guitar Hero, "messed up git so bad, I made Guitar Hero"
