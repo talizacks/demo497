@@ -6,4 +6,7 @@ Trying stuff and things
 ## Favorite Github Jokes
 
 * git vs Guitar Hero, "messed up git so bad, I made Guitar Hero"
-* idk it's just hard
+
+## General Thoughts
+
+*oof
